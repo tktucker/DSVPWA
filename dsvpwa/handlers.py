@@ -168,8 +168,8 @@ class VulnHTTPRequestHandler(BaseHTTPRequestHandler):
             format%args
         ))
 
-    def log_faults(self, format, *args):
-        sys.stdout.write('[*] %s\n' % (self.address_string(), format%args))
+    def log_faults(self, format):
+        sys.stdout.write('[*] %s\n' % (self.address_string())
 
     def log_message(self, format, *args):
         sys.stdout.write('[*] %s\n' % (self.address_string(), format%args))
