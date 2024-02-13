@@ -35,4 +35,25 @@
         <password>abcdefg</password>
         <email>jblow@aol.com</email>
     </user>
+    <user id="6">
+        <username>sally</username>
+        <firstname>sally</firstname>
+        <lastname>jones</lastname>
+        <password>abcdefg</password>
+        <email>sjones@hotmail.com</email>
+    </user>
+    <user id="7">
+        <username>axel</username>
+        <firstname>axel</firstname>
+        <lastname>rose</lastname>
+        <password>abcdefg</password>
+        <email>arose@gmail.com</email>
+    </user>
+    <user id="8">
+        <username>taylor</username>
+        <firstname>taylor</firstname>
+        <lastname>swift</lastname>
+        <password>abcdefg</password>
+        <email>tswift@aol.com</email>
+    </user>
 </users>
