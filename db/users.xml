@@ -56,4 +56,11 @@
         <password>abcdefg</password>
         <email>tswift@aol.com</email>
     </user>
+    <user id="9">
+        <username>ken</username>
+        <firstname>ken</firstname>
+        <lastname>franco</lastname>
+        <password>abcdefg</password>
+        <email>kfranco@aol.com</email>
+    </user>
 </users>
