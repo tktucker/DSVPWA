@@ -1,6 +1,7 @@
 # settings.py
 import os
 
+# Test comment
 DATABASES = {
     'postgresql_db': {
         'ENGINE': 'django.db.backends.postgresql',
