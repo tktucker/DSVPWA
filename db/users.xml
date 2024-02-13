@@ -28,4 +28,11 @@
         <password>123456</password>
         <email>weitzel@localhost</email>
     </user>
+    <user id="5">
+        <username>joe</username>
+        <firstname>joe</firstname>
+        <lastname>blow</lastname>
+        <password>abcdefg</password>
+        <email>jblow@aol.com</email>
+    </user>
 </users>
